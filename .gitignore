@@ -1,0 +1,9 @@
+#Directories
+.vs/
+Bling/.vs
+Bling/bin/
+Bling/bin-int/
+
+
+#Files
+*.user
